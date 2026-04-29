@@ -6,7 +6,7 @@ Thank you to everyone who has contributed to Stellar Wave Hub! Add yourself belo
 
 1. Fork the repo and create a branch
 2. Copy the template below and fill in your details
-3. Add it inside the `<!-- CONTRIBUTORS-START -->` section
+3. Add it inside the `CONTRIBUTORS-START` section
 4. Open a PR with the title: `docs: add [your-name] to contributors`
 
 **Template:**
@@ -218,7 +218,7 @@ Replace `YOUR_GITHUB_USERNAME`, `Your Name`, `YOUR_X_HANDLE`, and the role/proje
 	>
 		<a href="https://github.com/fredericklamar342-prog">
 			<img
-				src="https://avatars.githubusercontent.com/u/263657850?v=4"
+				src="https://github.com/fredericklamar342-prog.png"
 				width="80"
 				style="border-radius:50%"
 				alt="ATHCornerstone"
@@ -227,13 +227,9 @@ Replace `YOUR_GITHUB_USERNAME`, `Your Name`, `YOUR_X_HANDLE`, and the role/proje
 			<sub><b>ATHCornerstone</b></sub>
 		</a>
 		<br />
-		<a href="https://github.com/fredericklamar342-prog"
-			><img
-				src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square"
-				alt="GitHub"
-		/></a>
+		<a href="https://github.com/fredericklamar342-prog"><img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square" alt="GitHub" /></a>
 		<br />
-		<sub>Researcher — BeEnergy</sub>
+		<sub>Researcher — BeEnergy, Trustless Work, KindFi</sub>
 	</div>
 
 	<div
@@ -259,10 +255,46 @@ Replace `YOUR_GITHUB_USERNAME`, `Your Name`, `YOUR_X_HANDLE`, and the role/proje
 		<sub>Researcher — KindFi</sub>
 	</div>
 
+	<div
+		style="display:inline-block;width:130px;vertical-align:top;text-align:center;margin:8px"
+	>
+		<a href="https://github.com/victor-134">
+			<img
+				src="https://github.com/victor-134.png"
+				width="80"
+				style="border-radius:50%"
+				alt="victor-134"
+			/>
+			<br />
+			<sub><b>victor-134</b></sub>
+		</a>
+		<br />
+		<a href="https://github.com/victor-134"
+			><img
+				src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square"
+				alt="GitHub"
+		/></a>
+		<br />
+		<sub>Researcher — Trustless Work, PropChain</sub>
+	</div>
+
+	<div style="display:inline-block;width:130px;vertical-align:top;text-align:center;margin:8px">
+		<a href="https://github.com/Groq">
+			<img src="https://github.com/Groq.png" width="80" style="border-radius:50%" alt="Groq Assistant" />
+			<br />
+			<sub><b>Groq Assistant</b></sub>
+		</a>
+		<br />
+		<a href="https://github.com/Groq">
+			<img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square" alt="GitHub" />
+		</a>
+		<br />
+		<sub>Researcher — Lumenswap</sub>
+	</div>
+
 	<!-- Add your <div> above this line -->
 </div>
 <!-- CONTRIBUTORS-END -->
-```
 
 ## Roles
 
