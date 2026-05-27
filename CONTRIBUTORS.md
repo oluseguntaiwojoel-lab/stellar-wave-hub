@@ -395,6 +395,36 @@ Replace `YOUR_GITHUB_USERNAME`, `Your Name`, `YOUR_X_HANDLE`, and the role/proje
 
 	<!-- Add your <div> above this line -->
 </div>
+<!-- CONTRIBUTORS-START -->
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/samieazubike">
+        <img src="https://github.com/samieazubike.png" width="80" alt="samieazubike" style="border-radius:50%" />
+        <br />
+        <sub><b>samieazubike</b></sub>
+      </a>
+      <br />
+      <a href="https://github.com/samieazubike"><img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square" alt="GitHub" /></a>
+      <a href="https://x.com/samabornoking"><img src="https://img.shields.io/badge/-X-000000?logo=x&logoColor=white&style=flat-square" alt="X" /></a>
+      <br />
+      <sub>Maintainer — Project creator</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Chigybillionz">
+        <img src="https://github.com/Chigybillionz.png" width="80" alt="Okorie Chigozie Jehoshaphat" style="border-radius:50%" />
+        <br />
+        <sub><b>Okorie Chigozie Jehoshaphat</b></sub>
+      </a>
+      <br />
+      <a href="https://github.com/Chigybillionz"><img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square" alt="GitHub" /></a>
+      <a href="https://x.com/ChigoziOkorie"><img src="https://img.shields.io/badge/-X-000000?logo=x&logoColor=white&style=flat-square" alt="X" /></a>
+      <br />
+      <sub>Developer &mdash; Added contributor profile</sub>
+    </td>
+    <!-- Add your <td> above this line -->
+  </tr>
+</table>
 <!-- CONTRIBUTORS-END -->
 
 ## Roles
