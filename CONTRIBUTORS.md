@@ -344,6 +344,31 @@ Replace `YOUR_GITHUB_USERNAME`, `Your Name`, `YOUR_X_HANDLE`, and the role/proje
 		<br />
 		<sub>Researcher - Wraith</sub>
 	</div>
+	<div style="display:inline-block;width:130px;vertical-align:top;text-align:center;margin:8px">
+  <a href="https://github.com/Chidubemkingsley">
+    <img
+      src="https://github.com/Chidubemkingsley.png"
+      width="80"
+      style="border-radius:50%"
+      alt="Chidubem Kingsley Rubeluchukwuisi"
+    />
+    <br />
+    <sub><b>Chidubem Kingsley</b></sub>
+  </a>
+  <br />
+  <a href="https://github.com/Chidubemkingsley"
+    ><img
+      src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square"
+      alt="GitHub"
+  /></a>
+  <a href="https://x.com/KingsleyCaesar1"
+    ><img
+      src="https://img.shields.io/badge/-X-000000?logo=x&logoColor=white&style=flat-square"
+      alt="X"
+  /></a>
+  <br />
+  <sub>Researcher — Stellopay</sub>
+</div>
 
 	<!-- Add your <div> above this line -->
 </div>
@@ -355,4 +380,3 @@ Replace `YOUR_GITHUB_USERNAME`, `Your Name`, `YOUR_X_HANDLE`, and the role/proje
 - **Reviewer** — Rated and reviewed submitted projects
 - **Developer** — Contributed code to the platform
 - **Maintainer** — Core team maintaining the project
-
