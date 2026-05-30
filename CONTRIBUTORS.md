@@ -412,6 +412,29 @@ Replace `YOUR_GITHUB_USERNAME`, `Your Name`, `YOUR_X_HANDLE`, and the role/proje
 		<sub>Researcher — Carbonchain</sub>
 	</div>
 
+	<div
+		style="display:inline-block;width:130px;vertical-align:top;text-align:center;margin:8px"
+	>
+		<a href="https://github.com/github">
+			<img
+				src="https://github.com/github.png"
+				width="80"
+				style="border-radius:50%"
+				alt="GitHub Copilot"
+			/>
+			<br />
+			<sub><b>GitHub Copilot</b></sub>
+		</a>
+		<br />
+		<a href="https://github.com/github"
+			><img
+				src="https://img.shields.io/badge/-AI--Assisted-181717?logo=github&logoColor=white&style=flat-square"
+				alt="AI Assisted"
+		/></a>
+		<br />
+		<sub>Researcher — Stellar Intel</sub>
+	</div>
+
 	<!-- Add your <div> above this line -->
 </div>
 ```
